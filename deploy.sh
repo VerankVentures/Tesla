@@ -4,3 +4,4 @@ deployment 4
 deploy to staging enviroment
 echo good job
 tested and accepted
+# bugs removed
